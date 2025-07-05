@@ -49,9 +49,13 @@ This project applies various time series forecasting techniques to predict stock
 - ✅ Interactive model selection in dashboard
 
 ---
+##Steamlit_Link
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-forecasting-d5tlfhvjc2ktae8fd3no89.streamlit.app/)
 
 ## 🚀 How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
